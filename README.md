@@ -3,10 +3,10 @@
 Page using HTML and CSS.<br />
 
 ### Web Version
-<img src="images/panelfinal.JPG" alt="Web Version"/>
+<img src="panelfinal.JPG" alt="Web Version"/>
 
 ### Mobile Version
-<img src="images/mobilefinal.JPG" alt="Mobile Version"/>
+<img src="mobilefinal.JPG" alt="Mobile Version"/>
 
 ## 🚀 Starting
 
